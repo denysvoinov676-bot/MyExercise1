@@ -1,0 +1,27 @@
+em {
+color: darkolivegreen;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: cyan;
+}
+#Roblox{
+display:flex;
+justify-content:left;
+width: 425px;;
+}
+#Minecraft{
+display: flex;
+justify-content: right;
+width: 460px;
+}
+#Brawlstars{
+display: flex;
+justify-content: right;
+width:495px;
+}
+h3 {
+color: darkred;
+font-size: xx-large;
+
+}
